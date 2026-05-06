@@ -1,2 +1,1 @@
-# SignAndSays-PrivacyPolicy
-Privacy Policy
+# Sign & Says Privacy Policy
