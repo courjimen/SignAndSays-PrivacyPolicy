@@ -1,0 +1,2 @@
+# SignAndSays-PrivacyPolicy
+Privacy Policy
